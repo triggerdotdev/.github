@@ -26,14 +26,14 @@ Scan through our existing issues to find one that interests you. You can narrow 
 
 We welcome all feature requests, both for new functionality to something that already exists or a brand new idea.
 
-File your feature request through GitHub Issues [here](https://github.com/triggerdotdev/issues/new?).
+File your feature request through GitHub Issues [here](https://github.com/triggerdotdev/.github/issues/new).
 
 ## Pull requests
 
 When making pull requests to the repository, make sure to follow [these guidelines](https://github.com/triggerdotdev/CONTRIBUTING.md) for both bug fixes and new features.
 
 ### Features
-Before creating pull requests for new features, first file a [GitHub Issue](https://github.com/triggerdotdev/issues/new?) describing the reasoning and motivation for the feature. This gives maintainers and the community the opportunity to provide feedback on your idea before implementing it.
+Before creating pull requests for new features, first file a [GitHub Issue](https://github.com/triggerdotdev/.github/issues/new) describing the reasoning and motivation for the feature. This gives maintainers and the community the opportunity to provide feedback on your idea before implementing it.
 
 ## Licence
 By contributing to Trigger.dev, you agree that your contributions will be licensed under its license specified in the repository you are contributing to.
